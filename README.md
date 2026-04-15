@@ -54,7 +54,7 @@ Programs include:
 
 1. Clone the repository:
    
-(https://github.com/ashoksadam1978/PHYSICS-PYTHON-SOLUTIONS)
+(https://github.com/ashoksadam1978
 2. Open the files in any Python environment ( pydroid, VS code,etc.)
 3. Run the scripts and explore the outputs
 
