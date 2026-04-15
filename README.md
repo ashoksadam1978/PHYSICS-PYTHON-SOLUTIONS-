@@ -53,8 +53,8 @@ Programs include:
 ## 🚀 How to Use
 
 1. Clone the repository:
-   `
-   git clone https://github.com/ashoksadam1978/PHYSICS-PYTHON-SOLUTIONS.
+   
+git clone https://github.com/ashoksadam1978/PHYSICS-PYTHON-SOLUTIONS
 2. Open the files in any Python environment ( pydroid, VS code,etc.)
 3. Run the scripts and explore the outputs
 
